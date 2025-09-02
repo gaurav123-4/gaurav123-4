@@ -29,8 +29,6 @@
 - Motivated **Software Engineer** passionate about building scalable web apps and real-world solutions.
 - Currently pursuing **B.E. in Automation & Robotics Engineering** at Army Institute of Technology, Pune.
 - Hands-on with **JavaScript, Python, Java, C++, React, Node.js, Express.js, MongoDB, TailwindCSS** and more.
-- Enjoy building projects like [LeetMetric Website](#) (LeetCode analytics), [CrackHunt Website](#) (event platform), and digital tools for street vendors.
-- Selected for **Girl Script Summer of Code (GSSoC 2025)** and core member of **ISDF Club**.
 - Quick learner, strong collaborator, keen on exploring new technologies & automation workflows.
 - Skilled in teamwork, problem solving, public speaking, and event leadership.
 - Always open to learning, connecting, and creating impactful tech!
