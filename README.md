@@ -60,6 +60,13 @@
 </p>
 
 ---
+## OPEN SOURCE 
+
+[![An image of @gaurav1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurav1234)](https://holopin.io/@gaurav1234)
+
+
+
+
 
 ## 🚀 Featured Projects
 
