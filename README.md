@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,nodejs,express,mongodb,html,css,tailwind,docker,git,vscode,github" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats 📈
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav123-4&show_icons=true&theme=react&hide_border=true" alt="Gaurav's GitHub Stats" />
@@ -85,19 +85,19 @@
 
 ---
 
-## 🏅 Leadership & Involvement
+## Leadership & Involvement
 
-- 🎓 **Girl Script Summer Of Code (GSSoC 2025)** - Selected participant
-- 🕵️‍♂️ **Core Member:** Information Security & Digital Forensics Club (ISDF)
-- 🎤 Led Alumni Meet & CrackHunt events | Active in sports & cultural activities
+- **Girl Script Summer Of Code (GSSoC 2025)** - Selected participant
+- **Core Member:** Information Security & Digital Forensics Club (ISDF)
+- Led Alumni Meet & CrackHunt events | Active in sports & cultural activities
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 💬 Always up for a tech chat or hackathon!
-- 🏸 Love sports and collaborating on campus activities
-- 📖 Passionate about learning new technologies & automation
+- Always up for a tech chat or hackathon!
+- Love sports and collaborating on campus activities
+- Passionate about learning new technologies & automation
 
 ---
 
