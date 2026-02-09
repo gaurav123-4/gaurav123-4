@@ -24,7 +24,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - Motivated **Software Engineer** passionate about building scalable web apps and real-world solutions.
 - Currently pursuing **B.E. in Automation & Robotics Engineering** at Army Institute of Technology, Pune.
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav123-4&theme=react-dark&hide_border=true" alt="Gaurav's Contribution Graph"/>
