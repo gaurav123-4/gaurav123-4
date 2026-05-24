@@ -24,7 +24,7 @@
 
 ---
 
-##  About Me
+## About Me
 
 - Motivated **Software Engineer** passionate about building scalable web apps and real-world solutions.
 - Currently pursuing **B.E. in Automation & Robotics Engineering** at Army Institute of Technology, Pune.
@@ -43,34 +43,29 @@
 
 ---
 
-## GitHub Stats 
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav123-4&show_icons=true&theme=react&hide_border=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav123-4&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav123-4&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurav123-4&show_icons=true&theme=react&hide_border=true&cache_seconds=1800&rank_icon=github" alt="Gaurav's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=gaurav123-4&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav123-4&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
 
-##  Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav123-4&theme=react-dark&hide_border=true" alt="Gaurav's Contribution Graph"/>
 </p>
 
 ---
-## OPEN SOURCE 
+
+## OPEN SOURCE
 
 [![An image of @gaurav1234's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurav1234)](https://holopin.io/@gaurav1234)
 
-
-
-
-
-
-
-
+---
 
 ## 🚀 Featured Projects
 
