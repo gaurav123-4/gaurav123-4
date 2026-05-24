@@ -46,9 +46,16 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav123-4&show_icons=true&theme=react&hide_border=true&cache_seconds=1800&rank_icon=github" alt="Gaurav's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=gaurav123-4&theme=react&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav123-4&layout=compact&theme=react&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=gaurav123-4&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav123-4&theme=react" alt="Gaurav's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav123-4&theme=react" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav123-4&theme=react" alt="Stats"/>
 </p>
 
 ---
